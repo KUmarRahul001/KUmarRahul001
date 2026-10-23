@@ -1,157 +1,176 @@
-<!--
-  GitHub Profile README — Rahul Kumar
-  Update the links in the Connect section if your public handles change.
--->
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:172554,100:2563EB&height=220&section=header&text=Rahul%20Kumar&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" alt="Rahul Kumar — software, data and AI" width="100%" />
-
-  <img src="https://avatars.githubusercontent.com/u/147501502?v=4" width="120" style="border-radius:50%" alt="Rahul Kumar's GitHub avatar" />
-
-  <h3>Software Developer · Data & AI Enthusiast · Educator · Creator</h3>
-
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=2563EB&center=true&vCenter=true&width=560&lines=Full-stack+%26+mobile+development;Data+analytics+and+AI%2FML+foundations;Teaching+at+Tinplate+Computer+Training+Centre;Writing+dark+fiction+as+Nobi+Kumar" alt="typing-svg" />
-
-  <p>
-    <a href="https://github.com/Rahullkumr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://www.instagram.com/rahnoxa.design/"><img src="https://img.shields.io/badge/Rahnoxa-Design-2563EB?style=for-the-badge&logo=instagram&logoColor=white" alt="Rahnoxa on Instagram" /></a>
-    <a href="https://www.instagram.com/itzz.me.nobi/"><img src="https://img.shields.io/badge/Nobi%20Kumar-Creator-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Nobi Kumar on Instagram" /></a>
-  </p>
+  <img src="./rahul-banner.svg" width="100%" alt="Rahul Kumar - Full-Stack Developer & AI/ML Engineer" />
 </div>
 
-<br>
-
-## About Me
-
-I'm **Rahul Kumar**, a BCA graduate with interests across **full-stack development, mobile applications, data analytics, and AI/ML**. I enjoy taking an idea from a rough concept to a useful product — working through the interface, backend, database, integration, testing, and deployment along the way.
-
-I also teach computer and technology subjects at **Tinplate Computer Training Centre (TCTC)**, build my 3D-printing venture **Rahnoxa**, and write dark fiction as **Nobi Kumar**.
-
-<table>
-<tr><td>🎓</td><td><b>Education</b></td><td>Bachelor of Computer Applications (BCA), Arka Jain University</td></tr>
-<tr><td>📈</td><td><b>Data analytics</b></td><td>Practical learning and internship/training experience with CodSoft</td></tr>
-<tr><td>👨‍🏫</td><td><b>Teaching</b></td><td>Computer and technology education at TCTC</td></tr>
-<tr><td>💻</td><td><b>Engineering</b></td><td>Full-stack web, Flutter & Android apps, APIs, databases, dev tooling</td></tr>
-<tr><td>📊</td><td><b>Data & AI</b></td><td>Python, SQL, visualization, ML fundamentals, AI-assisted workflows</td></tr>
-<tr><td>🧩</td><td><b>Builder mindset</b></td><td>Product development, troubleshooting, integration, testing, iteration</td></tr>
-<tr><td>🔭</td><td><b>Current direction</b></td><td>Deepening skills in data science, machine learning, and AI engineering</td></tr>
-</table>
-
-<br>
-
-## Technology Stack
-
-**Languages**
-
-<p><img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript,dart,kotlin,html,css" alt="Python, Java, C, C++, JavaScript, TypeScript, Dart, Kotlin, HTML and CSS" /></p>
-
-**Web & Mobile Development**
-
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,django,flask,flutter,androidstudio" alt="React, Next.js, Tailwind CSS, Node.js, Django, Flask, Flutter and Android Studio" /></p>
-
-**Databases & Backend Services**
-
-<p><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase" alt="PostgreSQL, MySQL, MongoDB, Redis, Firebase and Supabase" /></p>
-
-**Data, AI & Developer Tools**
-
-<p><img src="https://skillicons.dev/icons?i=git,github,docker,terraform,linux,bash,vscode" alt="Git, GitHub, Docker, Terraform, Linux, Bash and Visual Studio Code" /></p>
-
-I also use **SQL and Matplotlib** for data-related work and explore AI tools and local models, including **Ollama and Qwen**, as part of my learning and development workflow.
-
-<br>
-
-## Selected Projects & Product Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🧮 Nextorra CRM**
-CRM product focused on business workflows and structured customer data.
-`React` `TypeScript` `Tailwind` `Node.js` `PostgreSQL` `Redis`
-
-**🧾 Eazzio Payroll**
-Payroll and workforce-management mobile app — mobile integration, permission handling, troubleshooting, release testing.
-`Android` `Flutter` · [Google Play →](https://play.google.com/store/apps/details?id=com.eazzio.eazziopayroll)
-
-**💈 Salon SaaS**
-Software concept for organizing salon operations through a web application.
-`Full-stack` `Data management` `Business software`
-
-</td>
-<td width="50%" valign="top">
-
-**📱 Social Applications**
-Cross-platform mobile projects exploring native Android, API integration, and mobile UX.
-`Flutter` `Dart` `Kotlin` `Backend/API`
-
-**🗺️ Field Force Management System**
-Management app concept for coordinating field teams and operational workflows.
-`Workflow design` `Mobile usability` `Backend integration`
-
-**🖨️ Rahnoxa — 3D Printing & Digital Products**
-Small-business brand for custom 3D-printed products and online selling workflows.
-[rahnoxa.antideploy.com →](https://rahnoxa.antideploy.com) · [Instagram →](https://www.instagram.com/rahnoxa.design/)
-
-</td>
-</tr>
-</table>
-
-> The projects above represent a mix of development projects, product work, and concepts I have explored. Check each project's repository for its exact implementation and current status.
-
-<br>
-
-## Teaching & Knowledge Sharing
-
-At **Tinplate Computer Training Centre (TCTC)**, I work with computer and technology education. Topics I teach, prepare, or explore include:
-
-- Computer fundamentals, operating systems, and number systems
-- Programming and web development
-- Python, SQL, data analytics, and visualization
-- AI/ML foundations and modern AI tools
-- 3D printing workflows and digital fabrication
-- Practical technology learning through structured courses and projects
-
-I enjoy turning technical concepts into material that beginners can understand and practice.
-
-<br>
-
-## Beyond Code
-
-**✍️ Writing as Nobi Kumar** — I write **psychological thrillers, horror, mystery, and dark fiction**. My creative work includes *The Shadow Who Watched* and the **Nobi Narrative Universe (NNU)** — a space for connected stories and unsettling ideas. Follow the creative side: [Instagram — @itzz.me.nobi](https://www.instagram.com/itzz.me.nobi/)
-
-**🖨️ Building with Rahnoxa** — I'm interested in the intersection of technology, design, product development, and entrepreneurship through **Rahnoxa**, my custom 3D-printing and product brand.
-
-<br>
-
-## What I'm Learning & Building Toward
-
-- Strengthening Python, SQL, statistics, and analytical thinking
-- Building better data visualization and machine-learning foundations
-- Developing reliable web and mobile applications with clean integrations
-- Exploring local LLMs, AI-powered workflows, and developer automation
-- Improving product design, testing, deployment, and technical teaching
-
-<br>
-
-## GitHub Stats
+<br />
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rahullkumr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahullkumr&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+  <a href="https://github.com/KUmarRahul001"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Mobile+Developer+%F0%9F%93%B1;Data+Analytics+%26+Applied+AI%2FML+%F0%9F%A4%96;Eazzio+Payroll+App+is+Live+on+Play+Store+%F0%9F%8E%89;Tech+Trainer+%40+Tinplate+Computer+Centre+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB;Creator+of+Rahnoxa+3D+%26+Author+Nobi+Kumar+%E2%9C%A8" alt="Typing Tagline" /></a>
 </div>
 
-<br>
+<br />
 
-## Let's Connect
+<!-- Profile Intro Section with Right-Aligned Avatar -->
+<img align="right" width="155" style="border-radius: 50%; margin: 0 0 15px 15px; border: 3px solid #38bdf8;" src="https://avatars.githubusercontent.com/u/147501502?v=4" alt="Rahul Kumar Profile Photo" />
 
-I'm interested in collaborating on useful software, web and mobile applications, data projects, and practical AI experiments.
+## Hi 👋! My name is Rahul Kumar
+
+I am a **Computer Science Lecturer, Project Manager, and Software Developer** specializing in **AI, Python, Data Science, Full-Stack, and Mobile Engineering**. I graduated with a **Bachelor of Computer Applications (BCA)** from **Arka Jain University**, worked with **Thesis Eduventures** and **CodSoft (Data Analytics)**, and train the next generation of developers at **Tinplate Computer Training Centre (TCTC)**.
+
+I build robust software solutions spanning **Flutter/Android mobile apps, high-performance web platforms, and applied AI automation**. Beyond engineering, I am the founder of **Rahnoxa** (3D printing & design) and author psychological suspense fiction within the **Nobi Narrative Universe (NNU)**.
+
+<br clear="both">
+
+---
+
+### 🎉 Congratulations, Team Eazzio!
+
+> 🚀 **Our Eazzio Payroll app is now live on the Google Play Store!**  
+>  
+> A big thank you to each one of you for your hard work, patience, and dedication. This milestone wouldn’t have been possible without everyone’s efforts and teamwork. Proud of what we’ve achieved together!  
+>  
+> 📲 **Check it out on Google Play:**  
+> [![Get it on Google Play](https://img.shields.io/badge/Google_Play-Eazzio_Payroll_App-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.eazzio.eazziopayroll)
+
+---
+
+### 🛠️ Languages & Tech Stack
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="javascript logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="typescript logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="python logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="react logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="38" alt="nextjs logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="38" alt="flutter logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="38" alt="android logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="38" alt="kotlin logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" alt="nodejs logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="38" alt="cplusplus logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="postgresql logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="38" alt="mongodb logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="docker logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="git logo" />
+</div>
+
+<br />
+
+---
+
+### 🌐 Connect With Me
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/rahulkumar360" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" /></a>
+  <a href="https://github.com/KUmarRahul001" target="_blank"><img src="https://img.shields.io/static/v1?message=KUmarRahul001&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.eazzio.eazziopayroll" target="_blank"><img src="https://img.shields.io/static/v1?message=Google%20Play&logo=googleplay&label=&color=34A853&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Play Store" /></a>
+  <a href="https://rahnoxa.antideploy.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Rahnoxa%203D&logo=googlechrome&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio" /></a>
+  <a href="https://www.instagram.com/itzz.me.nobi/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" /></a>
+  <a href="https://discordapp.com/users/KUmarRahul001"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" /></a>
+</div>
+
+<br />
+
+---
+
+### 📌 Featured Projects & Production Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 Eazzio Payroll</h3>
+      <p><b>Production Workforce Management App (Google Play)</b></p>
+      <p>Built enterprise attendance, leave tracking, location permissions, real-time payroll calculations, and published the production release on the Play Store.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+      </p>
+      <p>🔗 <a href="https://play.google.com/store/apps/details?id=com.eazzio.eazziopayroll"><b>Play Store Link</b></a> · <a href="https://github.com/KUmarRahul001/Eazzio-Payroll"><b>GitHub Repo</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Nextorra CRM</h3>
+      <p><b>Enterprise Client Relationship & Workflow Engine</b></p>
+      <p>Scalable business workflow CRM featuring multi-tenant data pipelines, task tracking, query caching, and dynamic customer analytics.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+      <p>🔗 <a href="https://github.com/KUmarRahul001/Nextorra"><b>View Repository</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 ShaktimaanGPT & AI Bots</h3>
+      <p><b>Custom LLM Agents & Social Automations</b></p>
+      <p>Intelligent agent workflows using local LLMs (Ollama/Qwen) combined with automated scrapers and scheduled engagement bots.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+        <img src="https://img.shields.io/badge/Automation-FF6F00?style=flat-square" />
+      </p>
+      <p>🔗 <a href="https://github.com/KUmarRahul001/ShaktimaanGpt"><b>ShaktimaanGPT Repo</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖨️ CNC Pen Plotter & Rahnoxa 3D</h3>
+      <p><b>Digital Fabrication & Hardware Engineering</b></p>
+      <p>Hardware-software plotting machine built with stepper motor controllers, G-code interpreters, and 3D printing custom mechanical parts.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Hardware-CNC-gray?style=flat-square" />
+        <img src="https://img.shields.io/badge/3D_Printing-Rahnoxa-blue?style=flat-square" />
+      </p>
+      <p>🔗 <a href="https://rahnoxa.antideploy.com"><b>Rahnoxa Store</b></a> · <a href="https://github.com/KUmarRahul001"><b>CNC Repositories</b></a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🐍 Watch my contribution graph get eaten by the snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KUmarRahul001/KUmarRahul001/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KUmarRahul001/KUmarRahul001/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/KUmarRahul001/KUmarRahul001/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+---
+
+### 📊 GitHub Activity & Statistics
 
 <div align="center">
-  <a href="https://github.com/kumarrahul001"><img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-  <a href="https://www.instagram.com/rahnoxa.design/"><img src="https://img.shields.io/badge/Rahnoxa-Instagram-2563EB?style=for-the-badge&logo=instagram&logoColor=white" alt="Rahnoxa Instagram" /></a>
-  <a href="https://www.instagram.com/itzz.me.nobi/"><img src="https://img.shields.io/badge/Nobi%20Kumar-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Nobi Kumar Instagram" /></a>
-  <br /><br />
-  <sub>Learn continuously. Build thoughtfully. Make technology useful.</sub>
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=KUmarRahul001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KUmarRahul001&theme=tokyonight&hide_border=true" height="175" alt="Streak Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUmarRahul001&layout=compact&theme=tokyonight&hide_border=true" width="400" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+<div align="center">
+  <sub>✨ <i>"Learn continuously. Build thoughtfully. Ship products that make a difference."</i> ✨</sub>
 </div>
